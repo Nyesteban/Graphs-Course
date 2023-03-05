@@ -1,0 +1,9 @@
+﻿  Graph.cpp
+C:\Informatica Cluj\Graph_lab5\Graph_lab5\Graph.cpp(32,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Informatica Cluj\Graph_lab5\Graph_lab5\Graph.cpp(58,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Informatica Cluj\Graph_lab5\Graph_lab5\Graph.cpp(70,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Informatica Cluj\Graph_lab5\Graph_lab5\Graph.cpp(145,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Informatica Cluj\Graph_lab5\Graph_lab5\Graph.cpp(151,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Informatica Cluj\Graph_lab5\Graph_lab5\Graph.cpp(181,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Informatica Cluj\Graph_lab5\Graph_lab5\Graph.cpp(187,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Graph_lab5.vcxproj -> C:\Informatica Cluj\Graph_lab5\Graph_lab5\x64\Debug\Graph_lab5.exe
